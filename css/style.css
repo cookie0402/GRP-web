@@ -1494,3 +1494,30 @@ span.banner-icon {
 }
 
 /*--//responsive--*/
+
+/* DOCUMENTS */
+#docs-minutes-content h1 {
+    font-weight: bold;
+    margin: 10vh 0;
+}
+#docs-minutes-content > div.row{
+    margin: 0 0;
+    margin-bottom: 10vh;
+}
+/* col-sm-12 col-md-6 col-lg-4 */
+#docs-minutes-row > div {
+    padding: 0;
+    margin: 0;
+    border: solid 1px black;
+    border-radius: 4px;
+}
+.docs-content > div > h3 {
+    font-weight: bold;
+    padding: 1.5rem;
+    padding-bottom: 0;
+}
+.docs-content > div > ul {
+    margin: 2rem 3rem;
+    list-style-type: none;
+}
+
