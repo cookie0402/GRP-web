@@ -56,6 +56,7 @@ h6 {
     margin: 0;
     padding: 0;
     font-family: 'Raleway', sans-serif;
+    font-style: italic;
     letter-spacing: 1px;
 }
 
@@ -77,9 +78,10 @@ ul {
 }
 
 h3.title {
+    font-style: italic;
     font-size: 45px;
     text-align: center;
-    color: #000;
+    color:black;
     margin-bottom: 50px;
     letter-spacing: 1px;
     font-weight: 600;
@@ -441,7 +443,7 @@ background-size:40px;
 /*-- //banner --*/ 
 /*--about--*/
 .about-top-grid h2 {
-    color:#348a77;
+    color:black;
     font-size: 30px;
     font-weight: 600;
 }
@@ -457,8 +459,8 @@ background-size:40px;
     font-weight: 600;
     text-decoration: none;
     display: inline-block;
-    background-color:#348a77;
-    border: 1px solid #348a77;
+    background-color:grey;
+    border: 1px solid grey;
     outline: none;
     padding: 11px 18px;
 	letter-spacing:2px;
