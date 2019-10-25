@@ -6,6 +6,10 @@ body {
     letter-spacing: 1px;
 font-family: 'Raleway', sans-serif;
 }
+img 
+{
+	float:right;
+}
 
 body a {
     outline: none;
@@ -471,9 +475,14 @@ background-size:40px;
     color: #000;
 }
 .about-top-image{ 
-background: url(../images/a1.jpg) no-repeat 0px 0px;
+background: url(../images/aa1.jpeg) no-repeat 0px 0px;
     background-size: cover;
-        min-height: 270px;}
+        min-height: 315px;}
+.about-top-image1{ 
+            background: url(../images/aa2.jpg) no-repeat 0px 0px;
+                background-size: cover;
+                    min-height: 315px;}
+
 	/*--//about--/*
 	/*--Services-- */
 .services {
