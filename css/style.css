@@ -1521,11 +1521,11 @@ span.banner-icon {
     border: solid 1px black;
     border-radius: 4px;
     margin: 2vh 0;
-    height: 350px;
+    height: 360px;
 }
 .docs-content > div > h3 {
     font-weight: bold;
-    padding: 1.5rem;
+    padding: 15px;
     padding-bottom: 0;
 }
 .docs-content > div > h5 {
@@ -1540,6 +1540,23 @@ span.banner-icon {
 .docs-content > div > ul > li {
     margin-top: 4px;
 }
+
+.docs-downloads {
+    padding: 0;
+}
+.docs-downloads > div {
+    margin: 2vh 1vw;
+    background-color: #A4B0F5;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.docs-downloads > div > a {
+    color: black;
+    padding: 50px 0;
+}
+
 
 /* SUPERVISOR - HOME */
 .supervisor {
