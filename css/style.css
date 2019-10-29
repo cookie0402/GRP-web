@@ -1546,7 +1546,6 @@ span.banner-icon {
 }
 .docs-downloads > div {
     margin: 2vh 1vw;
-    background-color: #A4B0F5;
     border-radius: 10px;
     height: 14vh;
     display: flex;
@@ -1554,6 +1553,12 @@ span.banner-icon {
     align-items: center;
     opacity: 0.8;
     transition: all 0.3s ease;
+}
+div#proposal > div {
+    background-color: #4188ff;
+}
+div#timeline > div {
+    background-color: #27ae60;
 }
 .docs-downloads > div:hover {
     opacity: 1;
