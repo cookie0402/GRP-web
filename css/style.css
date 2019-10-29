@@ -1564,7 +1564,7 @@ div#timeline > div {
     opacity: 1;
 }
 .docs-downloads > div > a {
-    color: black;
+    color: white;
 }
 .stretched-link::after {
     position: absolute;
